@@ -22,9 +22,9 @@ learning the most important features of the form library along the way.
 Creating a Simple Form
 ----------------------
 
-Suppose you're building a simple todo list application that will need to
-display "tasks". Because your users will need to edit and create tasks, you're
-going to need to build a form. But before you begin, first focus on the generic
+Suppose you're building a simple todo list application that will
+display the "tasks". Because your users will have to edit and create tasks, you 
+will have to create a form. But before you begin, first focus on the generic
 ``Task`` class that represents and stores the data for a single task::
 
     // src/AppBundle/Entity/Task.php
